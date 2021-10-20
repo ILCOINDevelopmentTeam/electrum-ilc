@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Standard BIP44 legacy",
+        "derivation_path": "m/44'/578'/0'",
+        "script_type": "p2pkh",
+        "iterate_accounts": true
+    },
+    {
+        "description": "Standard BIP44 legacy testnet",
+        "derivation_path": "m/44'/1'/0'",
+        "script_type": "p2pkh",
+        "iterate_accounts": true
+    },
+    {
+        "description": "Non-standard legacy",
+        "derivation_path": "m/0'",
+        "script_type": "p2pkh",
+        "iterate_accounts": true
+    }
+]
